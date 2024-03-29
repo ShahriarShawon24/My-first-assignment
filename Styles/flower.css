@@ -13,7 +13,7 @@ body {
 }
 
 .first-section {
-    
+
     height: 50%;
     margin-top: 100px;
     padding-left: 100px;
@@ -49,20 +49,100 @@ body {
 
     background: rgb(229, 84, 115);
 }
-.btn-text{
+
+.btn-text {
     color: rgb(255, 255, 255);
 
-font-size: 20px;
-font-weight: 700;
+    font-size: 20px;
+    font-weight: 700;
 
-text-align: left;
+    text-align: left;
 }
 
 .first-img {
     height: 600px;
     width: 400px;
-    
-    margin-right:100px ;
+
+    margin-right: 100px;
 
 
 }
+
+/* second-section */
+
+
+
+.second-section-contsiner {
+    text-align: center;
+
+}
+
+.second-h1 {
+    color: rgb(39, 39, 39);
+
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.second-paragraph {
+    color: rgba(39, 39, 39, 0.6);
+
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+/* flower-second-section */
+.flower-second-section {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+
+}
+
+.img-back-1 {
+
+    border-radius: 300px 300px 0px 0px;
+
+    background: rgba(167, 33, 98, 0.15);
+
+}
+
+.img-back-2 {border-radius: 300px 300px 0px 0px;
+
+    background: rgba(5, 151, 160, 0.15);}
+
+.img-back-3 {border-radius: 300px 300px 0px 0px;
+
+    background: rgba(71, 125, 17, 0.15);}
+
+
+.img-back-1 img{
+    
+width: 310px;
+height: 428px;
+
+
+}
+.img-back-2 img{
+    width: 370px;
+height: 370px;
+}
+.img-back-3 img{
+    width: 314px;
+height: 471px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
