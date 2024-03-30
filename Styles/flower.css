@@ -306,13 +306,16 @@ body {
 .subscription-input {
     padding-bottom: 80px;
     padding-top: 50px;
+   
 }
 
 .subscription-input input {
-    width: 700px;
-    height: 64px;
+    width: 600px;
+    height: 60px;
     color: rgb(255, 255, 255);
     border: 0;
+    margin-right: 10px;
+    
 
 
 }
